@@ -46,7 +46,7 @@
 <p>&nbsp;</p>
 <h4 id="bkmrk-from-my-own-my-resea">From My Own My Research</h4>
 <h5 id="bkmrk-genesis%3Afatal-labyri">Genesis</h5>
-<p id="bkmrk-fatal-labyrinthtarge"><s>fatal labyrinth</s><br>target earth<br>contra hard corps (us)<br>altered beast no continues</p>
+<p id="bkmrk-fatal-labyrinthtarge">fatal labyrinth<br><s>target earth</s><br>contra hard corps (us)<br>altered beast no continues</p>
 <h5 id="bkmrk-snes%3Aact-raiser-2"><br>SNES</h5>
 <p id="bkmrk-act-raiser-2">act raiser 2</p>
 <p id="bkmrk-%C2%A0-3"></p>
