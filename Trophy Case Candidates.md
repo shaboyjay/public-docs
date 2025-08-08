@@ -4,7 +4,7 @@
 <p id="bkmrk-code-name%3A-viper%C2%A0">Code Name: Viper&nbsp;</p>
 <p id="bkmrk-dirty-harry">Dirty Harry</p>
 <h4>&nbsp;</h4>
-<h4 id="bkmrk-from-duke%3A">Duke:</h4>
+<h4 id="bkmrk-from-duke%3A">Duke</h4>
 <p id="bkmrk-chou-jinro-senki-war-1">Chou jinro senki WARWOLF, aka werewolf the last warrior</p>
 <p>Oh yeah any of the games that are entirely identical to each other:</p>
 <p>shadow of the ninja</p>
@@ -14,7 +14,7 @@
 <p>codename: viper</p>
 <p>power blade</p>
 <p>Amagon (2)</p>
-<h4 id="bkmrk-from-dana%3Aholy-diver">Dana:</h4>
+<h4 id="bkmrk-from-dana%3Aholy-diver">Dana</h4>
 <p id="bkmrk-holy-divermr-gimmick">holy diver<br>mr gimmick<br>kid dracula (2)<br>cocoron</p>
 <p id="bkmrk-code-name%3A-viper%C2%A0-1">Code Name: Viper&nbsp;</p>
 <h4 id="bkmrk-oh-yeah-any-of-the-g">Spacemister</h4>
